@@ -1,0 +1,17 @@
+# Unreal generated folders
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Local IDE files
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Operating system files
+.DS_Store
+Thumbs.db
